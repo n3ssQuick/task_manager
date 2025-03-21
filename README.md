@@ -18,6 +18,7 @@ A command-line task manager with advanced features including subcommands, enviro
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
 2. Install the required packages:
 
